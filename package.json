@@ -1,0 +1,25 @@
+{
+  "name": "learn-java-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --open google-chrome --client-log-level error",
+    "build": "webpack --mode=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonNemesh/learnJavaScript.git"
+  },
+  "author": "Anton Nemesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonNemesh/learnJavaScript/issues"
+  },
+  "homepage": "https://github.com/AntonNemesh/learnJavaScript#readme",
+  "devDependencies": {
+    "webpack": "^5.9.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
