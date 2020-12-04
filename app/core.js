@@ -85,7 +85,6 @@ setTimeout(() => {
     displayInfo({personalData: {}});
 }, 3000);
 //
-//
 // const map = new Map();
 // map.set(myObj, 'Hello Anton');
 //
