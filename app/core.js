@@ -1,4 +1,4 @@
-import { moduleOOP } from "./moduleMessage.js"
+import { moduleOOP } from "./moduleOOP.js"
 import { moduleDate } from "./moduleDate.js"
 import { moduleDestruct } from "./moduleDestruct.js"
 
