@@ -5,7 +5,7 @@ export class Message {
         this.messageText = messageText;
     }
 
-    changeText() {
+    showMessage() {
         this.messageEl.textContent = this.messageText;
     }
 }
